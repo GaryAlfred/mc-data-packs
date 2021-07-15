@@ -1,0 +1,1 @@
+scoreboard objectives add s3r_terraform trigger "Unbreakable Iron"

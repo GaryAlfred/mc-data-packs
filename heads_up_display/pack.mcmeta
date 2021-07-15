@@ -1,0 +1,14 @@
+{
+    "pack":{
+        "pack_format": 7,
+        "description": [
+            {
+                "text": "Heads-up Display", 
+                "color": "gold"
+            },
+            {
+                "text": ": `/trigger s3r_hud`",
+                "color": "gray"
+            }]
+    }
+}

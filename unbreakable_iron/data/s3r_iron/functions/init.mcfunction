@@ -1,0 +1,1 @@
+scoreboard objectives add s3r_iron trigger "Unbreakable Iron"

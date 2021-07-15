@@ -1,0 +1,14 @@
+{
+    "pack":{
+        "pack_format": 7,
+        "description": [
+            {
+                "text": "Terraformer Supplies", 
+                "color": "gold"
+            },
+            {
+                "text": ": `/trigger s3r_terraform`",
+                "color": "gray"
+            }]
+    }
+}
