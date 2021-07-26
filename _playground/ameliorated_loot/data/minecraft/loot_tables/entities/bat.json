@@ -1,0 +1,23 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:emerald",
+                    "functions": [
+                        {
+                            "function": "looting_enchant",
+                            "count": {
+                                "n": 1,
+                                "p": 0.33,
+                                "type": "binomial"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

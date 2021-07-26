@@ -1,0 +1,80 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "group",
+          "children": [
+            {
+              "type": "item",
+              "name": "fern",
+              "functions": [
+                {
+                  "function": "set_count",
+                  "count": 4
+                }
+              ]
+            },
+            {
+              "type": "item",
+              "name": "large_fern",
+              "functions": [
+                {
+                  "function": "set_count",
+                  "count": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "vine",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "moss_block",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "lily_pad",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "azalea"
+        },
+        {
+          "type": "item",
+          "name": "flowering_azalea"
+        },
+        {
+          "type": "item",
+          "name": "azalea_leaves"
+        },
+        {
+          "type": "item",
+          "name": "flowering_azalea_leaves"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": [
+      {
+        "text": "Bloom the Desert",
+        "color": "gold"
+      },
+      {
+        "text": ": `/trigger s3r_btd`",
+        "color": "gray"
+      }
+    ]
+  }
+}
