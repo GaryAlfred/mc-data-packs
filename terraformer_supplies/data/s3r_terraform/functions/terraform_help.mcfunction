@@ -5,3 +5,7 @@ tellraw @s {"text": "4. Sand", "bold": false}
 tellraw @s {"text": "5. Gravel", "bold": false}
 tellraw @s {"text": "6. Grass Block", "bold": false}
 tellraw @s {"text": "7. Bucket of Water", "bold": false}
+tellraw @s {"text": "8. Cobblestone", "bold": false}
+tellraw @s {"text": "9. Oak Log", "bold": false}
+tellraw @s {"text": "10. Iron Ore", "bold": false}
+tellraw @s {"text": "11. Clay", "bold": false}
