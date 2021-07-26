@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": [
+      {
+        "text": "Pleasant Day",
+        "color": "gold"
+      },
+      {
+        "text": ": `/trigger s3r_pd`",
+        "color": "gray"
+      }
+    ]
+  }
+}
